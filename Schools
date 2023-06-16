@@ -48,15 +48,15 @@
     },
     {
       "goodsId": 6,
-      "text": "1+2+2+1！交大这些团队获奖！",
-      "imageUrl": "https://s1.ax1x.com/2023/05/19/p9hXacR.jpg",
+      "text": "北京航空航天大学计算机学院夏令营",
+      "imageUrl": "https://s1.ax1x.com/2023/06/16/pCMwkT0.png",
       "WebPage":"https://mp.weixin.qq.com/s/cqrldgGjDdI2DdEiGIQt3g",
       "spanSize": 2
     },
     {
       "goodsId": 7,
-      "text": "上新！交大专属学位服！这个夏天……",
-      "imageUrl": "https://s1.ax1x.com/2023/05/19/p9hX64e.jpg",
+      "text": "中国人民大学高瓴夏令营",
+      "imageUrl": "https://s1.ax1x.com/2023/06/16/pCMwimn.png",
       "WebPage":"https://mp.weixin.qq.com/s/xpHgF3HlJayN1dayBXhDfw",
       "spanSize": 2
     },
@@ -66,6 +66,6 @@
       "imageUrl": "https://s1.ax1x.com/2023/05/19/p94pZNV.png",
       "WebPage":"https://mp.weixin.qq.com/s/C_5VjmnWPtZOSbrgge8LHQ",
       "spanSize": 4
-    },
+    }
   ]
 }
